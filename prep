@@ -1,0 +1,27 @@
+Hey!
+
+Some of you asked for a list of resources that I’ve found pretty helpful in this ungodly slog through tech interviews.
+
+HARD REQUIREMENT
+Your boyfriend/husband/girlfriend/wife/your mom/a friend in tech who understands: One (or all) of these are necessary. These damn interviews can be brutal. I considered rage quitting engineering and just busking in Nashville with my saxophone. You may need reminders from time to time that an interview doesn’t determine your worth. Your SO can do that. Your mom can do that. I can commiserate and tell you that the interviewer was a jerk. Because some interviewers are.
+
+OTHER RESOURCES
+I. https://www.algoexpert.io: Visual problem explanations and hella problems. You’ll want this. If you don’t want to pay... There are alternatives in this list
+
+II. LeetCode: More problems. There is a list on Blind of 75 essential problems to solve (https://www.teamblind.com/post/New-Year-Gift—Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). I signed up for LeetCode Premium because I wanted access to solutions to any problem I may come across. The discussions are hella helpful too.
+
+III. [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230): Good visual overview of key data structures and algorithms. Amazing discussion on making log(n) intuitive. Nice discussion on dynamic programming, NP-complete, and graph traversal algorithms. I may re-read this.
+
+IV. [How should I prepare for my Google interview if I have one month left?](https://anthonydmays.com/blog/2017/01/10/prepare-google-interview-1-month-left/): Cool guy I met who’s now ex-Google wrote this. HELLA helpful. Also read this article (https://www.linkedin.com/pulse/interviewing-google-heres-6-things-you-absolutely-need-anthony-mays/?trk=pulse_spock-articles) by him too. I added a step 2.5 (validate the data structure that the problem requires. You’re actually allowed to ask your interviewer questions. Who knew?!) Make this process your own. This is how I’ve been crushing my Google mocks.
+
+V. [Mastering the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): Awesome Udemy course... Has two or three good examples of backtracking problems. As you’ll read in Anthony Mays’ article, the hard questions will often require backtracking, dynamic programming, or some other recursive approach.
+
+VI. Don’t understand something? FreeCodeCamp might have a class on it on YouTube
+
+VII. http://interviewing.io: AMAZING place to schedule mock interviews and watch interviews from others in the community applying for Big Tech positions.
+
+VIII. [Dropbox Interview Prep GitHub repo](https://github.com/insideofdrop/Dropbox-Interview-Prep): self explanatory lmao. If you want to work at Dropbox.
+
+You may have noticed that a lot of these are big tech focused. That’s because all these small companies are interviewing like this now, because they are ridiculous. But whatever.
+
+If you need anything... Feel free to message me. I’m here for you even if you just want to learn this shit for your own edification.
